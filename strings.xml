@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FarmBot Mobile</string>
+    <string name="accessibility_description">Позволяет FarmBot воспроизводить заданные касания и движения пальца на экране.</string>
+</resources>
